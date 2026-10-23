@@ -1,0 +1,1173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CCOM Dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCOM Class of 2030
+BEGIN:VEVENT
+UID:pljdxVebVoG6IMzUUJA6@ccom-dashboard
+SUMMARY:ANATD 1554 – Ultrasound Lab 2
+LOCATION:SH-301
+DESCRIPTION:Schedule TBA within this block
+DTSTART:20261016T131000Z
+DTEND:20261016T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DECVb0j2XaVNf2qdqt6I@ccom-dashboard
+SUMMARY:ANATD 1554 – Open Lab (Optional)
+DESCRIPTION:Overlaps Ultrasound Lab block\; use assigned schedule
+DTSTART:20261016T140000Z
+DTEND:20261016T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:x6t6ukZRml8KIZjU88Jy@ccom-dashboard
+SUMMARY:SCFVMA: Feline Dermatology with Dr. Lockwood
+LOCATION:Sign in to download the location
+DESCRIPTION:Come learn about the skin issues that affect our feline friends!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377426
+DTSTART:20261016T190000Z
+DTEND:20261016T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:xoWaS5ElIaw8j8ePoiKq@ccom-dashboard
+SUMMARY:Embers and Excellence
+LOCATION:Sign in to download the location
+DESCRIPTION:Bonfire event to provide students with an opportunity to connect\, build community\, and engage with fellow students in a relaxed and welcoming environment. The event will include a bonfire\, refreshments\, games\, and opportunities for social interaction and community building.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376963
+DTSTART:20261016T220000Z
+DTEND:20261017T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JYdzrOE29um6qFHzHZN5@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376687
+DTSTART:20261018T150000Z
+DTEND:20261018T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:iLXGrkvxECQ0lrEnR9Hb@ccom-dashboard
+SUMMARY:PM&R Keen Sports Volunteering
+LOCATION:Sign in to download the location
+DESCRIPTION:The PM&R Club at CCOM is partnering with KEEN Chicago (Kids Enjoy Exercise Now) — a nonprofit that provides free\, non-competitive fitness and recreation programs for children and young adults with disabilities.\n\nEach volunteer will be paired up with at least one KEEN athlete (i.e.\, child participant) and guide them through the duration of the event. This is a great opportunity to gain exposure to adaptive sports for students who want to go into PM&R\, pediatrics\, sports medicine\, or anyone who'd like to work with children with special needs!\n\nPlease complete this short form to help us coordinate volunteers for the event.\n\nhttps://forms.gle/mZYfX9ZWGmEBrDiM7\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377793
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:r2wy1Oh3plMeebc4j8p4@ccom-dashboard
+SUMMARY:ANATD 1554 – Exam 3
+LOCATION:Testing Center
+DTSTART:20261019T120000Z
+DTEND:20261019T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:H63PmjiDHh4scY5l9OYe@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261019T141000Z
+DTEND:20261019T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GZIRbr1wPT2Qqh1aT3dT@ccom-dashboard
+SUMMARY:Pharmacy Week: Coffee and Pastries
+LOCATION:Sign in to download the location
+DESCRIPTION:FOR PHARMACY STUDENTS ONLY: Stop by the faculty lounge in the commons and get some coffee and pastries to start pharmacy week!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377855
+DTSTART:20261019T160000Z
+DTEND:20261019T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ZPRpTF9dg92i1dSE9AhJ@ccom-dashboard
+SUMMARY:Churro Sales in the Commons
+LOCATION:Sign in to download the location
+DESCRIPTION:Support Hispanic Healthcare Association and grab a yummy churro during your lunch hour! Also selling Hispanic themed badge reels\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377864
+DTSTART:20261019T160000Z
+DTEND:20261019T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fu7XyvQnQYG0deTJRrwD@ccom-dashboard
+SUMMARY:CORED 1599 – IPE I
+LOCATION:As Assigned
+DESCRIPTION:Lunch 11-12 or 12-1 depending on group
+DTSTART:20261019T161000Z
+DTEND:20261019T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:J8bMPakPu4aaveqOrreW@ccom-dashboard
+SUMMARY:FCHP Bible Study
+LOCATION:Sign in to download the location
+DESCRIPTION:Bible Study for Ruth in Redwood Chapel.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377439
+DTSTART:20261019T170000Z
+DTEND:20261019T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nSKUfk8U7R9fctP9dMOx@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261019T181000Z
+DTEND:20261019T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:yhKYj5860tS9uFdrqlib@ccom-dashboard
+SUMMARY:Initial Meeting
+LOCATION:Sign in to download the location
+DESCRIPTION:The National Hispanic Pharmacists Association's first meeting!! We will discuss joining the organization as well as upcoming events.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377751
+DTSTART:20261019T190000Z
+DTEND:20261019T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DTSPqfujtcSTjulXwnyU@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261019T191000Z
+DTEND:20261019T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:YM8BkADI2VSHhjzZQ4hq@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261020T141000Z
+DTEND:20261020T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tbEBBFLy741B2tUQ0OaI@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry Workshop
+LOCATION:AH 152-160
+DTSTART:20261020T151000Z
+DTEND:20261020T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ykhUegOqNIpMEj7TrxIg@ccom-dashboard
+SUMMARY:Panda Express Fundraiser
+LOCATION:Sign in to download the location
+DESCRIPTION:Fundraiser event partnered with panda express to raise money for our club\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377828
+DTSTART:20261020T160000Z
+DTEND:20261021T053000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DOTVjVwiYI2BTLgdPrxD@ccom-dashboard
+SUMMARY:ANATD 1554 – Post Exam Review
+LOCATION:CARD B
+DTSTART:20261020T181000Z
+DTEND:20261020T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0uBVsdOlS8ssDTnVojtH@ccom-dashboard
+SUMMARY:Student Research Group General Body Meeting
+LOCATION:Alumni Hall 151\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Come and learn what SRG is all about. We'll talk about how to get involved in research\, find a mentor\, and what the club can offer you..as well as a sneak peek of what we have planned for this year!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377876
+DTSTART:20261020T220000Z
+DTEND:20261020T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fYzto5Z02sloxX7gxyz2@ccom-dashboard
+SUMMARY:Greek Club Introductory Meeting
+LOCATION:Sign in to download the location
+DESCRIPTION:A meeting to discuss ideas for club including new meetings\, officers for this year\, and new members. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377415
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0pCWz760IIfJPPEd6WhO@ccom-dashboard
+SUMMARY:CLIND 1552 – Quiz
+LOCATION:Testing Center
+DTSTART:20261021T123000Z
+DTEND:20261021T124500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:if1IzpHMxeCOtx7yPOMi@ccom-dashboard
+SUMMARY:OMEDD 1570 – OMM Workshop
+LOCATION:OMM Lab
+DESCRIPTION:As assigned
+DTSTART:20261021T131000Z
+DTEND:20261021T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:lpAurQ770mSpVF3nMrpp@ccom-dashboard
+SUMMARY:CPDG Exec Council x CPDG Wellness Committee: A Slice of Self-Care
+LOCATION:Sign in to download the location
+DESCRIPTION:FOR PHARMACY STUDENTS ONLY: Come stop by and destress with pie and activities. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377843
+DTSTART:20261021T163000Z
+DTEND:20261021T173000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:dNJpLG9crkMzqfyMDR8i@ccom-dashboard
+SUMMARY:BMC Weekly Practice Meeting
+LOCATION:AHS 162\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Weekly meetings consist of improv activities\, club updates\, and open forums for student presentations practice and review!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377357
+DTSTART:20261021T170000Z
+DTEND:20261021T175500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:z721fcGGWNFvOg1o8UQK@ccom-dashboard
+SUMMARY:Medical Spanish Workshop #2
+LOCATION:Sign in to download the location
+DESCRIPTION:Bienvenidos! This is the second Medical Spanish Workshop of the year and we hope you will join us and continue practicing your medical Spanish! \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377823
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:q8V4Mb05FgIMHK10MA75@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261021T181000Z
+DTEND:20261021T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:PSGuaWM84RKCVO1Gi2jN@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261021T191000Z
+DTEND:20261021T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BlhIOlQKqFDLB0lA2Td8@ccom-dashboard
+SUMMARY:BOOGRAM MAKING: Cider n Study
+LOCATION:COMMONS\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Bring your friends and join us in crafting boo grams alongside studying with a special treat of fall refreshments\, snacks and cider. All Boograms made will go directly to our current fundraiser\; available to order for purchase on Pulse! Bring company... see us at Commons!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377947
+DTSTART:20261021T211500Z
+DTEND:20261022T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:hMaDTBxRxWqE6S5v4DvY@ccom-dashboard
+SUMMARY:MABS Bonfire
+LOCATION:Sign in to download the location
+DESCRIPTION:The MABS Bonfire is a social event designed to bring students together in a welcoming and relaxed environment. The event will provide an opportunity for students to socialize\, build connections\, strengthen friendships\, and foster a sense of community through an enjoyable outdoor gathering. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377890
+DTSTART:20261021T223000Z
+DTEND:20261022T013000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3NY481b5GJFnhQ0CxNYS@ccom-dashboard
+SUMMARY:Pharmacy Week: Faculty Appreciation
+LOCATION:Sign in to download the location
+DESCRIPTION:FOR PHARMACY STUDENTS ONLY: Stop by and write and appreciation note to the pharmacy faculty!!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377857
+DTSTART:20261022T133000Z
+DTEND:20261022T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BQLLYoMk7hlkDzrHGMta@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261022T141000Z
+DTEND:20261022T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1OTvdsw4BJxsXH6FsrGH@ccom-dashboard
+SUMMARY:CLIND 1562 – PES
+LOCATION:OMM Lab / CARD B
+DESCRIPTION:All groups\; session times provided by course
+DTSTART:20261022T151000Z
+DTEND:20261022T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JEBo73RTd6zLId4OtgLl@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261022T181000Z
+DTEND:20261022T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kQvp7Roy3Uc7UN4ve4KB@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Naperville
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377455
+DTSTART:20261022T220000Z
+DTEND:20261022T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:lhDy07xKzmjxp6Xb3GiF@ccom-dashboard
+SUMMARY:Urogynecology & Reconstructive Pelvic Surgery Talk
+LOCATION:Sign in to download the location
+DESCRIPTION:Join us on October 22nd at 6:00 PM for an engaging talk on Urogynecology & Reconstructive Pelvic Surgery with Dr. Jirschele! Come learn more about this specialized field\, explore the surgical management of pelvic floor disorders\, and hear about Dr. Jirschele’s experience and career in the field. All students interested in surgery\, OB/GYN\, urology\, or women’s health are welcome!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377860
+DTSTART:20261022T230000Z
+DTEND:20261023T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mAYASHWs98uL9Y3q1t34@ccom-dashboard
+SUMMARY:Pharmacy Week: Friendsgiving
+LOCATION:Sign in to download the location
+DESCRIPTION:FOR PHARMACY STUDENTS ONLY: Stop by and enjoy the end of pharmacy week with food and games and a good time. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377856
+DTSTART:20261023T173000Z
+DTEND:20261023T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:g6ouJWbzyiqHzZG4q9bO@ccom-dashboard
+SUMMARY:SCWVLDI Pumpkin Painting
+LOCATION:Ramada\,
+DESCRIPTION:🎃 Pumpkin Painting with SCWVLDI 🎃\n\nCome hang out with SCWVLDI on October 23rd from 11 AM to 1 PM at the Ramada for a fun fall afternoon! We'll be painting pumpkins\, enjoying a caramel apple dipping bar\, and spending time with fellow club members and faculty.\n\nWhether you're an artist or just looking to relax\, this is a great chance to unwind and connect with everyone.\n\nDon't forget to pay your club dues before attending! Please sign up on the Google Sheets attached!\n\nWe can't wait to see you there! 🍂🍎🎨✨\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377228
+DTSTART:20261023T180000Z
+DTEND:20261023T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0168C0vFLMQ1FxGYgaEF@ccom-dashboard
+SUMMARY:Safe Halloween
+LOCATION:Sign in to download the location
+DESCRIPTION:FREE MWU Family Event!\n3-4:30pm:  Campus Trick-Or-Treating\n4-6pm:  Activities in the Wellness & Recreation Hall\n~Games~Crafts~Snacks\nAlthough this is a free event\, we will be collecting non-perishable/non-expired canned goods or a suggested $5 donation for St. Vincent de Paul.\nFeed. Clothe. House. Heal\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377695
+DTSTART:20261023T220000Z
+DTEND:20261024T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:My2JmcyGFAAMJWdVKtuV@ccom-dashboard
+SUMMARY:Diwali Night
+LOCATION:Sign in to download the location
+DESCRIPTION:A night to celebrate light over darkness with food\, drinks\, music\, henna\, a dance floor\, and good vibes! 🪔✨ Tickets available on CARS Portal 🎟️\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377750
+DTSTART:20261023T230000Z
+DTEND:20261024T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DG9tqSoUq72LGTKrsZsb@ccom-dashboard
+SUMMARY:Osteoporosis Screening Event- MAHA
+LOCATION:Sign in to download the location
+DESCRIPTION:Students will be using the osteoporosis machine to measure the T-scores for event attendees at a special event hosted with the Association of Chinese-American Scientists and Engineers in partnership with the Midwest Asian Healthcare Association (MAHA). All colleges welcome!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377818
+DTSTART:20261024T150000Z
+DTEND:20261024T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:eJ79pDltvwPZJpaH9lfw@ccom-dashboard
+SUMMARY:Deer Valley Petroglyph Preserve Planting Event
+LOCATION:Deer Valley Petroglyph Preserve\, 3711 W Deer Valley Rd\, Glendale\, AZ 85308\, United States
+DESCRIPTION:Removal of invasive plants\, planting native plants\, and some bird watching at Deer Valley Petroglyph Preserve.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377688
+DTSTART:20261024T150000Z
+DTEND:20261024T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:h12FHRSqnodV0YhJNrYM@ccom-dashboard
+SUMMARY:Drug Take Back Day
+LOCATION:Sign in to download the location
+DESCRIPTION:This event is hosted by the Westmont Police Department twice a year to collect unused and expired medication back from the public. Cars will drive through the station and drop off medications that we package into boxes. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377848
+DTSTART:20261024T150000Z
+DTEND:20261024T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cq8hyoiAllEDIJa0uUUu@ccom-dashboard
+SUMMARY:PDC Initiation Night
+LOCATION:Sign in to download the location
+DESCRIPTION:Initiating new brothers\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377304
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ghplQP6k7oAodMXr2sLP@ccom-dashboard
+SUMMARY:APhA-ASP x AIPhA: Medinah Temple Screening
+LOCATION:Sign in to download the location
+DESCRIPTION:Operation Sweetheart and AIPhA will be volunteering screening services at the Medinah Temple\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377733
+DTSTART:20261025T143000Z
+DTEND:20261025T173000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kGBmy5p8h4Yealn7Gn2b@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261026T141000Z
+DTEND:20261026T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8pXBnxayNxd5OUElHzmX@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261026T151000Z
+DTEND:20261026T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3N8lWuZlneKzbj8O97Yt@ccom-dashboard
+SUMMARY:CORED 1599 – IPE I
+LOCATION:As Assigned
+DESCRIPTION:Lunch 11-12 or 12-1 depending on group
+DTSTART:20261026T161000Z
+DTEND:20261026T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pvjx4OU0JBiS02svM0S0@ccom-dashboard
+SUMMARY:SCACVIM Bake Sale Fundraiser
+LOCATION:Cafeteria \,
+DESCRIPTION:Vet internal medicine club bake sale fundraiser\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377732
+DTSTART:20261026T170000Z
+DTEND:20261026T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:RruD9eWRunp6xahMXi6T@ccom-dashboard
+SUMMARY:Walk to End Alzheimer's Chipotle Fundraiser
+LOCATION:Sign in to download the location
+DESCRIPTION:The L.O.V.E Club is hosting a student fundraiser on October 26\, 2026\, to support the Walk to End Alzheimer's on November 7th\, 2026. A percentage of the proceeds from meals that the students buy will be donated to the cause. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377954
+DTSTART:20261026T170000Z
+DTEND:20261027T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4vA75roo6yQczuTs7e1P@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.1 (Group A)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261026T181000Z
+DTEND:20261026T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:eUAVAoDggA0Dey598oU7@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.1 (Group B)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261026T201000Z
+DTEND:20261026T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:RzI3JAVu01VCZ0ppgDBC@ccom-dashboard
+SUMMARY:BIOCD 1501 – Exam 3
+LOCATION:Testing Center
+DTSTART:20261027T123000Z
+DTEND:20261027T135000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:MuIlJN7NLAWTIJxOgN73@ccom-dashboard
+SUMMARY:BIOCD 1501 – Team Exam 3
+LOCATION:AH 152-160
+DTSTART:20261027T141000Z
+DTEND:20261027T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wfgmisHQCOCMoDcY9act@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261027T151000Z
+DTEND:20261027T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:s8hEkQ0Qw6m2OvGHOuhh@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261027T181000Z
+DTEND:20261027T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:sHiWPDjAWca47wxINkI6@ccom-dashboard
+SUMMARY:Vet Path Club Bake Sale
+LOCATION:Sign in to download the location
+DESCRIPTION:Take a break from the books and treat yourself - no tricks required! Stop by the Veterinary Pathology Club Halloween Bake Sale for spooky sweets\, festive treats\, and a well-deserved study break while supporting future Path Club activities.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377837
+DTSTART:20261027T190000Z
+DTEND:20261027T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:OPeT61g32ppBDrh1CyCA@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261027T191000Z
+DTEND:20261027T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:EUJmtQ77c7evFJMKkDs7@ccom-dashboard
+SUMMARY:Pharmacy P1 & P2 Big/Little: Puttshack
+LOCATION:Sign in to download the location
+DESCRIPTION:Join us for our P1 and P2 Big/Little event this year at Puttshack Oakbrook on Tuesday\, October 27th!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377700
+DTSTART:20261027T210000Z
+DTEND:20261028T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8C4DvbTfe5G73mDoiIOn@ccom-dashboard
+SUMMARY:ASCP GBM
+LOCATION:Sign in to download the location
+DESCRIPTION:GBM - intro to ASCP\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377827
+DTSTART:20261027T231500Z
+DTEND:20261028T001500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JedlPX9uYxIf9WGVwekf@ccom-dashboard
+SUMMARY:OMEDD 1570 – OMM Workshop
+LOCATION:OMM Lab
+DESCRIPTION:As assigned
+DTSTART:20261028T131000Z
+DTEND:20261028T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mLgt7bdGeNdPiCpm1h0R@ccom-dashboard
+SUMMARY:BMC Weekly Practice Meeting
+LOCATION:AHS 162\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Weekly meetings consist of improv activities\, club updates\, and open forums for student presentations practice and review!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377358
+DTSTART:20261028T170000Z
+DTEND:20261028T175500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rGRoSC2e84LscnyqZDIw@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.2 (Group B)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261028T181000Z
+DTEND:20261028T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:P9yQS0tbs4HBLnBAprKU@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.2 (Group A)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261028T201000Z
+DTEND:20261028T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ZsJWFMEENLXknvvcvaj7@ccom-dashboard
+SUMMARY:OMEDD 1570 – Quiz 5
+LOCATION:Testing Center
+DTSTART:20261028T221500Z
+DTEND:20261028T223000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BCxYEjJBhBeDVdn7Fftt@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261029T141000Z
+DTEND:20261029T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:603mLQO1bvlmP2oZ5nqO@ccom-dashboard
+SUMMARY:CLIND 1562 – PES
+LOCATION:OMM Lab / CARD B
+DESCRIPTION:All groups\; session times provided by course
+DTSTART:20261029T151000Z
+DTEND:20261029T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0UcZ3zTNqfktdcLTszkY@ccom-dashboard
+SUMMARY:The Salient History of the Radical Mastectomy with Dr. Bodenstine
+LOCATION:Sign in to download the location
+DESCRIPTION:Lunch Talk with Dr. Bodenstine!! \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377649
+DTSTART:20261029T170000Z
+DTEND:20261029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:T4BvD83mkMWNL7rtExnY@ccom-dashboard
+SUMMARY:Suture Clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Come join ACOS for a hands-on Suture Clinic and learn the basics of suturing! Whether you're brand new to suturing or looking to sharpen your skills\, this is a great opportunity to practice and learn in a low-pressure environment. \n\nThere will be food!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377620
+DTSTART:20261029T170000Z
+DTEND:20261029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ZfRGH47IshWojUHD2b09@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261029T181000Z
+DTEND:20261029T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:D1BPerHkkx2gSzMpj0W5@ccom-dashboard
+SUMMARY:Dive Into Aquatic Invertebrates with Dr. Fisk
+LOCATION:Sign in to download the location
+DESCRIPTION:Explore the fascinating world of aquatic invertebrates with Dr. Fisk and learn about their unique biology\, health\, and care.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377850
+DTSTART:20261029T190000Z
+DTEND:20261029T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:zQvqaVDBWj2ezvAFVvrp@ccom-dashboard
+SUMMARY:ANATD 1554 – Ultrasound Lab
+LOCATION:SH-301
+DESCRIPTION:Schedule TBA within this block
+DTSTART:20261030T131000Z
+DTEND:20261030T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:MlLQXXDbooGP3cyL5leW@ccom-dashboard
+SUMMARY:Rubio's Fundraiser with SAVS (Student Association of Veterinary Surgery)
+LOCATION:Rubio's Coastal Grill- 20210 N 59th Ave\, 20210 N 59th Ave\, Glendale\, AZ 85308\, United States
+DESCRIPTION:All day fundraiser through Rubio's at 20210 N 59th Ave\, Glendale\, AZ.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377866
+DTSTART:20261030T173000Z
+DTEND:20261031T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c5jw8aNcgsIxqoe9SlZU@ccom-dashboard
+SUMMARY:GI Disease in dogs/cats with Dr. Chappell
+LOCATION:Sign in to download the location
+DESCRIPTION:Come join us to hear Dr. Chappell present GI disease in dogs vs. cats\, and when to manage in GP versus referring to internal medicine! \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377757
+DTSTART:20261030T190000Z
+DTEND:20261030T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4hFn3x5gXbCmpc2LmDda@ccom-dashboard
+SUMMARY:Chinatown Health Screening Volunteering - MAHA
+LOCATION:Sign in to download the location
+DESCRIPTION:Students will either be measuring blood pressure or using the osteoporosis machine to measure the T-scores for patients. This is a great opportunity to get patient interaction experience and support this underserved community.\n\nMandarin/Cantonese translators are greatly appreciated but not required. All colleges welcome!\n\nNote: Additional volunteers may be needed as interpreters per the needs of the clinic. Volunteers who note ability to interpret may be pulled off the waitlist if they can assist in this capacity.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377817
+DTSTART:20261031T130000Z
+DTEND:20261031T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9elHp4XEmuTQfladcHQN@ccom-dashboard
+SUMMARY:Donation Drive for Hope
+LOCATION:Sign in to download the location
+DESCRIPTION:AAWP is hosting a donation drive to support Hope Women's Shelter and provide essential items to women and teen girls facing crisis situations. Community members are encouraged to donate new\, full-sized\, unused personal care and household items\, including shampoo\, conditioner\, body wash\, lotion\, toothpaste\, toilet paper\, paper towels\, disinfectant cleaning wipes\, and women’s and children’s underwear.\n\nDonations will be collected from November 2–12\, 2026\, with a final drop-off deadline of November 12. Every donation helps provide women and teen girls with essential resources while supporting their journey toward strength\, stability\, and support.\nThank you for helping us give back to our community and support Hope’s mission!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377735
+DTSTART:20261102T150000Z
+DTEND:20261112T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7PhxhAzgEF1VMJCOgrRM@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261102T151000Z
+DTEND:20261102T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aqVP3ykhxRzkxZFxOMfP@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261102T161000Z
+DTEND:20261102T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:68OAeXIHZyOv4cpPRqBx@ccom-dashboard
+SUMMARY:CORED 1599 – IPE I
+LOCATION:As Assigned
+DESCRIPTION:Lunch 11-12 or 12-1 depending on group
+DTSTART:20261102T171000Z
+DTEND:20261102T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:J36PPPorh1UzeiZcxTyi@ccom-dashboard
+SUMMARY:FCHP Bible Study
+LOCATION:Sign in to download the location
+DESCRIPTION:Bible Study for Ruth in Redwood Chapel.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377440
+DTSTART:20261102T180000Z
+DTEND:20261102T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pin8Z5RMVu742dDGorE2@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.3 (Group A)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261102T191000Z
+DTEND:20261102T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9jwCKxDE3wZ12Kby6hOw@ccom-dashboard
+SUMMARY:ANATD 1554 – Dissection Lab 4.3 (Group B)
+LOCATION:Gross Anatomy Lab
+DTSTART:20261102T211000Z
+DTEND:20261102T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Eq4idSeafiOqUFdpnjQP@ccom-dashboard
+SUMMARY:Beyond Graduation: The Business of Dentistry Panel
+LOCATION:Sign in to download the location
+DESCRIPTION:Join the Dental Business Academy and connect with experienced leaders in dentistry for a conversation about the business of the profession. Learn about contracts\, practice ownership\, DSOs\, insurance\, finances\, and career planning while having the opportunity to ask questions and hear real world advice from professionals in the dental field directly.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377119
+DTSTART:20261102T233000Z
+DTEND:20261103T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:WZ7GjlQMcuJHT91SCIuM@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry Workshop
+LOCATION:AH 152-160
+DTSTART:20261103T151000Z
+DTEND:20261103T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KLRhzvd2BHsbVV4lb53n@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261103T171000Z
+DTEND:20261103T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:FdoDNlEnTqUDFpKhA0Xm@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261103T191000Z
+DTEND:20261103T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:zVGWfVUiVXJ8LYCbpcBP@ccom-dashboard
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DTSTART:20261103T201000Z
+DTEND:20261103T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:VGXjnIA0ZtuGnd4wW6cd@ccom-dashboard
+SUMMARY:Rubios Fundraiser
+LOCATION:Sign in to download the location
+DESCRIPTION:Fundraiser for SAMOPS\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377917
+DTSTART:20261104T140000Z
+DTEND:20261105T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DogTSzIvRe2kgfBzCzEw@ccom-dashboard
+SUMMARY:OMEDD 1570 – OMM Workshop
+LOCATION:OMM Lab
+DESCRIPTION:As assigned
+DTSTART:20261104T141000Z
+DTEND:20261104T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XqmpCWUnu8YHXvduwn1I@ccom-dashboard
+SUMMARY:BMC Weekly Practice Meeting
+LOCATION:AHS 162\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Weekly meetings consist of improv activities\, club updates\, and open forums for student presentations practice and review!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377359
+DTSTART:20261104T180000Z
+DTEND:20261104T185500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:vJa02Sa7DQhyA0VQ8XVa@ccom-dashboard
+SUMMARY:Clinical Skills Club x EM Club Sim Starter Workshop
+LOCATION:Sign in to download the location
+DESCRIPTION:This event aims to give an intro to organizing and executing on simulation events with the SIM Center. The primary audience is the AZCOM student orgs. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377900
+DTSTART:20261104T220000Z
+DTEND:20261104T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7TI55xCHcUtTI4jYlLVH@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Bolingbrook
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377550
+DTSTART:20261104T223000Z
+DTEND:20261105T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BWqyRqr6N8VILWapxOWe@ccom-dashboard
+SUMMARY:Feed My Starving Children
+LOCATION:Sign in to download the location
+DESCRIPTION:Through volunteering at FMSC\, you’ll get the chance to impact hundreds of kids in just two hours per packing shift. You’ll experience what it’s like to make a tangible difference today.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377429
+DTSTART:20261104T230000Z
+DTEND:20261105T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Vf396nIvHPwSuvX5km1M@ccom-dashboard
+SUMMARY:Hands Club Meeting - Thanksgiving Craft
+LOCATION:Gym/Craft Room\,
+DESCRIPTION:Thanksgiving craft involving both students and individuals from the community with disabilities.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377831
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aaXNJZntkFVOWnGiUuzu@ccom-dashboard
+SUMMARY:Bonfire + Movie Night
+LOCATION:Sign in to download the location
+DESCRIPTION:🔥🎬 MOVIE NIGHT + BONFIRE 🎬🔥\n\nJoin us for a night outside the clinic! Come hang out by the fire\, roast some hotdogs 🌭 and make some s’mores 🍫🔥 while we watch a spooky movie under the stars! Dress for the weather!\n\n🎬 Movie: TBD — check back for updates!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377822
+DTSTART:20261105T003000Z
+DTEND:20261105T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GCkgSjrmYMUguVu1Zwq5@ccom-dashboard
+SUMMARY:BIOCD 1501 – Quiz 4
+LOCATION:Testing Center
+DTSTART:20261105T143000Z
+DTEND:20261105T145000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7yFZ04BGaBOhSMv9KKh9@ccom-dashboard
+SUMMARY:CLIND 1552 – PSP
+LOCATION:CARD B
+DTSTART:20261105T151000Z
+DTEND:20261105T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:u0yFcXPAIfgcdfZMJmP0@ccom-dashboard
+SUMMARY:CLIND 1562 – PES
+LOCATION:OMM Lab / CARD B
+DESCRIPTION:All groups\; session times provided by course
+DTSTART:20261105T161000Z
+DTEND:20261105T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aBSPb6Pems6WG6myH3sU@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261105T191000Z
+DTEND:20261105T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ourfapoZ2Y5dNHwh4Z6G@ccom-dashboard
+SUMMARY:BIOCD 1501 – EC Quiz
+LOCATION:Testing Center
+DTSTART:20261106T191000Z
+DTEND:20261106T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GGc199saZK5AQYlS2MFA@ccom-dashboard
+SUMMARY:Walk to End Alzheimer's
+LOCATION:Wesley Bolin Memorial Plaza\, 1700 W Washington Street Phoenix\, AZ 85007
+DESCRIPTION:The Walk to End Alzheimer's is an annual event that takes place across the country to raise awareness and money for Alzheimer's. This year the walk in Phoenix is on Saturday\, November 7th. Check in begins at 7:30am\, ceremony starts at 8:40am\, walk starts at 9:00am\, and the event ends at 11:00am. The location is Wesley Bolin Memorial Plaza\, 1700 W Washington Street Phoenix\, AZ 85007. It is a free event to participate in\, the walk has a 1.5 mile route and 2.5 mile walk. Fundraising is optional but encouraged. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377403
+DTSTART:20261107T143000Z
+DTEND:20261107T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:PyV80RJKDsMWHP4rJIkD@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376688
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b4ph3WQ7DvRkJG47iLZE@ccom-dashboard
+SUMMARY:CORED 1599 – IPE I
+LOCATION:As Assigned
+DESCRIPTION:Lunch 11-12 or 12-1 depending on group
+DTSTART:20261109T171000Z
+DTEND:20261109T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Bi3AhIjyAdywqUIgzVfZ@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry
+LOCATION:CARD B
+DTSTART:20261110T151000Z
+DTEND:20261110T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wq3IFr2EZekwgy6t5dDv@ccom-dashboard
+SUMMARY:Scheuring House Color-A-Smile
+LOCATION:Sign in to download the location
+DESCRIPTION:Color-A-Smile is a nonprofit organization that collects cheerful drawings from volunteers and distributes them to senior citizens\, nursing home residents\, hospital patients\, Meals on Wheels recipients\, and overseas military troops. This is a great opportunity for students to contribute to other communities and take a well-earned study break!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377932
+DTSTART:20261110T190000Z
+DTEND:20261110T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ydSiuAdjqkUAVZmyDTfF@ccom-dashboard
+SUMMARY:Wine and Cheese: Initiation
+LOCATION:Alumni Hall Atrium\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Join us as we raise a glass to welcome our newest initiates into the Brotherhood of Delta Sigma Delta. Enjoy an evening of curated cheeses\, and great company as we celebrate the traditions\, camaraderie\, and excellence that define our fraternity.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377549
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:UJ7avhayT6WCNFnqfm0W@ccom-dashboard
+SUMMARY:OMEDD 1570 – Practical Exam 2
+LOCATION:OMM Lab
+DESCRIPTION:Individual practical times to be released in Week 13
+DTSTART:20261111T140000Z
+DTEND:20261111T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XwbOLnlnD5fwceB9S2WX@ccom-dashboard
+SUMMARY:BMC Weekly Practice Meeting
+LOCATION:AHS 162\, 555 31st Street\, Downers Grove\, IL 60515\, United States
+DESCRIPTION:Weekly meetings consist of improv activities\, club updates\, and open forums for student presentations practice and review!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377360
+DTSTART:20261111T180000Z
+DTEND:20261111T185500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tq8VTlxaaS7Dvs9c6xtb@ccom-dashboard
+SUMMARY:OMEDD 1570 – Quiz 6
+LOCATION:Testing Center
+DTSTART:20261111T191000Z
+DTEND:20261111T192500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BQXFQGNyXa4mwPu7h1SH@ccom-dashboard
+SUMMARY:APhA-ASP: MTM/CHAT Bolingbrook Clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377444
+DTSTART:20261111T230000Z
+DTEND:20261112T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:COwBsLmKBQ4KBA01h3eW@ccom-dashboard
+SUMMARY:APhA-ASP: MTM/CHAT Joliet Clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377449
+DTSTART:20261111T231500Z
+DTEND:20261112T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:w1lXPdu2ZmYavuMswmVa@ccom-dashboard
+SUMMARY:CLIND 1562 – Practical Exam
+LOCATION:OMM Lab / CARD B
+DESCRIPTION:As assigned
+DTSTART:20261112T150000Z
+DTEND:20261112T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JFPo8wwpwmzbr8EqWIDw@ccom-dashboard
+SUMMARY:BIOCD 1501 – Biochemistry Workshop
+LOCATION:AH 152-160
+DTSTART:20261112T191000Z
+DTEND:20261112T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:roDxck064shVlAQ1itMN@ccom-dashboard
+SUMMARY:ANATD 1554 – Open Lab
+DTSTART:20261113T143000Z
+DTEND:20261113T173000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:FbSgrqO0IEZtnRVbv0vu@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Naperville
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377552
+DTSTART:20261114T140000Z
+DTEND:20261114T163000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:PBGifgsZTw3vkGJ8fTmc@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376689
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:iSFa8CTqnxyNcD5H3peA@ccom-dashboard
+SUMMARY:ANATD 1554 – Exam 4
+LOCATION:Testing Center
+DTSTART:20261116T150000Z
+DTEND:20261116T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:W9NudLgdQt8SgCpClsxU@ccom-dashboard
+SUMMARY:ANATD 1554 – Practical Exam 2
+LOCATION:Gross Anatomy Lab
+DTSTART:20261116T180000Z
+DTEND:20261116T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:hD04eRrLM4cRx3M9hMnD@ccom-dashboard
+SUMMARY:OMEDD 1570 – Exam 2
+LOCATION:Testing Center
+DTSTART:20261117T130000Z
+DTEND:20261117T141500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:OS2k1mlxjnhUCCE1bGn0@ccom-dashboard
+SUMMARY:CLIND 1552 – Exam 3
+LOCATION:Testing Center
+DTSTART:20261118T190000Z
+DTEND:20261118T201500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ko6mVcO1V7o4KbaUVoDW@ccom-dashboard
+SUMMARY:BIOCD 1501 – Exam 4
+LOCATION:Testing Center
+DTSTART:20261119T160000Z
+DTEND:20261119T172000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:oL0X9ag8uFWNwO4O7nBy@ccom-dashboard
+SUMMARY:BIOCD 1501 – Team Exam 4
+LOCATION:AH 152-160
+DTSTART:20261119T174000Z
+DTEND:20261119T183000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DC7KhkbmjCAxnhano5Hb@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Naperville
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377554
+DTSTART:20261119T230000Z
+DTEND:20261120T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a5vtcFxLKoAxlfXvpLDM@ccom-dashboard
+SUMMARY:APhA-ASP: MorningStar Mission
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=375791
+DTSTART:20261121T163000Z
+DTEND:20261121T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:OBBRoJC5ceBCXtuz2RNh@ccom-dashboard
+SUMMARY:Meet Rho Chi
+LOCATION:Sign in to download the location
+DESCRIPTION:Join us for Meet Rho Chi\, hosted by the Gamma Nu Chapter of the Rho Chi Society! Come learn more about the pharmacy academic honor society\, membership requirements\, tutoring opportunities\, and ways to get involved. You'll also have the opportunity to meet current members\, ask questions\, and discover what Rho Chi has to offer!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377948
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XY2vgeyFz06ALy6JcswB@ccom-dashboard
+SUMMARY:Grit and Glory
+LOCATION:Ramada \,
+DESCRIPTION:Pay-to-play field day. Each SAMPOS member will be sponsored (min $10) to perform PT exercises. All exercises will have a pre-order through CARS option. Additional/last-minute payments can be made in person at the event. Each SAMOPS member will have their own payment center with a dropdown menu describing which exercise they will perform. \n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377835
+DTSTART:20261202T173000Z
+DTEND:20261202T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TmIJ152jdPyhWMewEch7@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Bolingbrook
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377551
+DTSTART:20261202T223000Z
+DTEND:20261203T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ywVfhovZPT6k0Z0ejQ2B@ccom-dashboard
+SUMMARY:APhA-ASP: MTM/CHAT Bolingbrook Clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377445
+DTSTART:20261202T230000Z
+DTEND:20261203T033000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:l2OGy7fs7fkSWR4WMagU@ccom-dashboard
+SUMMARY:CDMI Talent Show
+LOCATION:Sign in to download the location
+DESCRIPTION:Talent show for CDMI students to demonstrate their hidden talents!\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377259
+DTSTART:20261205T000000Z
+DTEND:20261205T030000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Zjz87pReU1H8cxhOTXYF@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376690
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:xYZeIZNdjifhJsV7Bz5S@ccom-dashboard
+SUMMARY:APhA-ASP: MTM/CHAT Joliet Clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377450
+DTSTART:20261209T231500Z
+DTEND:20261210T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4TcXcGu1SVQKYUIppANV@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Naperville
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377553
+DTSTART:20261212T140000Z
+DTEND:20261212T163000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9MIYM6ZUPHL2Z8mAmqKm@ccom-dashboard
+SUMMARY:APhA-ASP: Loaves & Fishes–Naperville
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377555
+DTSTART:20261217T230000Z
+DTEND:20261218T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:WYgJleJBPJVzGsXr8vMo@ccom-dashboard
+SUMMARY:APhA-ASP: Oswald’s Pharmacy
+LOCATION:Sign in to download the location
+DESCRIPTION:Student Pharmacists will perform blood pressure and blood glucose screenings for individuals attending the clinic. We will offer counseling on medications and screening results under the direct supervision of a licensed pharmacist.\n\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377556
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:CfwanutdcAg2zKq6vzPt@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376691
+DTSTART:20261220T160000Z
+DTEND:20261220T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:dYile7FYh4vVg7I2TNEs@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376692
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GO1tzzL7MWLNX1spGALp@ccom-dashboard
+SUMMARY:Volunteering with Ability360
+LOCATION:Sign in to download the location
+DESCRIPTION:Join the PM&R Club in volunteering at the Ability360 Goalball Tournament from January 15-17. Goalball is a Paralympic sport designed for athletes with visual impairments\, offering participants a unique opportunity to support adaptive athletics and promote accessibility in sports. Volunteers will assist with event operations\, help athletes and spectators\, and gain exposure to the adaptive sports community. This is a great opportunity to serve the community\, learn about rehabilitation and disability advocacy\, and represent Midwestern University while making a meaningful impact.\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377892
+DTSTART:20270115T170000Z
+DTEND:20270117T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:YWs2f8gwEGmRt1Zra2LR@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376693
+DTSTART:20270117T160000Z
+DTEND:20270117T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:yE68hPfxwupM3UqfaZ2m@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376694
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:jsHD3xAyf8aflW2hsqcD@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376695
+DTSTART:20270221T160000Z
+DTEND:20270221T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:MO9bcbD5Lv47UDlq1Dm0@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376696
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:qLnKAdaiTJHxtubIGZEa@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376697
+DTSTART:20270321T150000Z
+DTEND:20270321T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:D4CIgFZFqiCoQkQiXo23@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376698
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Iiv8DNixm2pvuoDSAZcU@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376699
+DTSTART:20270418T150000Z
+DTEND:20270418T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TlmGhzfkdnJLTVUyPECD@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376700
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5qv9uNuYO5KOSKIXOHIZ@ccom-dashboard
+SUMMARY:SAMS clinic
+LOCATION:Sign in to download the location
+DESCRIPTION:Providing Blood pressure\, blood sugar\, A1c and lipid panel testing at a free health screening at the SAMS clinic. \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=376701
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7VvO3Jw4Cw8tWz4jRKkY@ccom-dashboard
+SUMMARY:Digital Workflow 101
+LOCATION:Glendale Hall 135\,
+DESCRIPTION:General body meeting going over basics of digital dental workflows at Midwestern\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377965
+DTSTART:20261022T185500Z
+DTEND:20261022T200500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:QbeaHQGiU6qaMMK3f5Ud@ccom-dashboard
+SUMMARY:Pet Halloween Contest
+LOCATION:Sign in to download the location
+DESCRIPTION:Buy a bandana for your pet for $3 or enter the contest for $3 \n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377973
+DTSTART:20261023T170000Z
+DTEND:20261030T055500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6TjjYJlwLiRu6TyKY1pp@ccom-dashboard
+SUMMARY:Student Trick or Treating
+LOCATION:Sign in to download the location
+DESCRIPTION:Where's Gigi? Scavenger Hunt!\n10 Gigi's Total-Academic Side Only.  Return a Gigi photo to Student Svcs.\, for a goodie bag-1 Gigi per student.\n\nTrick-Or-Treat\nLet's see those costumes!\n12-1pm\, in front of Student Services\, Barrel III\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377970
+DTSTART:20261029T190000Z
+DTEND:20261029T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:l6erX8k4elhS76s9uH1b@ccom-dashboard
+SUMMARY:Guest Speaker: Dr. Alexis Linnebur
+LOCATION:Online Event
+DESCRIPTION:Come join us for our amazing guest speaker: Dr. Alexis Linnebur\, a Midwestern CDMI alumna and Oral Maxillofacial Surgeon. She will speak on her experience as an Oral Maxillofacial Surgeon with a fellowship in Pediatric Cleft and Craniofacial Surgery\, her experience as a female OMFS\, and presentation on some of her surgery cases.\n\nMeeting Link: https://us05web.zoom.us/j/83041645531?pwd=UxC6RISh7ddxviaF9RtmbijkDT62qc.1\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377957
+DTSTART:20261029T233000Z
+DTEND:20261030T003000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:MkQqYPdXChVKM3PcrjIf@ccom-dashboard
+SUMMARY:Precision Medicine & Pathology Club General Body Meeting
+LOCATION:Sign in to download the location
+DESCRIPTION:Get to know more information about the Precision Medicine and Pathology Club\, as well as learn about open positions on the executive board! Students from all programs are welcome to join. \n\n\nMeeting Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjllMjE3YzctMTRkYy00YTM0LWI0ODctYjdjZjQ1ZWVkYWQw%40thread.v2/0?context=%7b%22Tid%22%3a%22834836a2-6ca8-464c-a6e3-4603e8f3bbfb%22%2c%22Oid%22%3a%2238022754-a11e-4ab3-92b0-6204703052f4%22%7d\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377967
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KmxXGWl0IwA7nB4pCHfp@ccom-dashboard
+SUMMARY:LDSSA Institute
+LOCATION:Sign in to download the location
+DESCRIPTION:Weekly scripture study with provided lunch\n---\nEvent Details: https://mwustudentlife.midwestern.edu/rsvp?id=377962
+DTSTART:20261201T190000Z
+DTEND:20270216T200000Z
+END:VEVENT
+END:VCALENDAR
